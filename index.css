@@ -12,7 +12,7 @@
 }
 .row{
     max-width: 100%;
-    height: auto;
+   
 }
 
 .b2{
@@ -78,7 +78,8 @@
  
 }
 .a5{
-    height: 400px;
+   max-width: 100%;
+   height: auto;
 }
 
 h3{
