@@ -97,6 +97,30 @@ font-weight: 600;
     font-size: 13px;
     font-weight: 500;
 }
+
+.a11{
+    width: 100%;
+}
+.a12{
+ color: #5e068a;
+font-weight: 500; 
+font-size: 20px;
+}
+.a13{
+    font-weight: 600;
+    font-size: 12px;
+}
+.a14{
+    height: 500px;
+}
+.a15{
+    background-color: #5e068a;
+    font-size: 9px;
+    height: 35px;
+    width: 100px;
+}
+
+
 @media(max-width:600px){
     /* .a1{
         font-size: 25px;
