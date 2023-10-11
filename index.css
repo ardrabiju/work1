@@ -85,7 +85,7 @@
 h3{
     color: #5e068a;
 }
-span{
+.b15{
     color: rgba(132, 61, 198, 0.753);
 
 }
@@ -169,6 +169,39 @@ font-size: 20px;
 .b2:hover{
     background-color: rgba(132, 61, 198, 0.753);
 }
+.b10{
+    font-size: 25px;
+    font-weight: 500;
+    color: #5e068a;
+}
+.b11{
+    color: #5e068a;
+    font-weight: 500;
+}
+.b12{
+    color: rgba(128, 128, 128, 0.708);
+    font-weight: 500;
+}
+.b13{
+    font-weight: 500;
+}
+
+.b15{
+    background-color: #1f002e;
+}
+.b14{
+   
+    font-size: 24px;
+    font-weight: 500;
+    color: white;
+}
+.b16{
+    color: white;
+    font-weight: 500;
+}
+.b17{
+    font-weight: 500;
+}
 
 @media(max-width:600px){
     /* .a1{
@@ -220,4 +253,6 @@ font-size: 20px;
     width: 60px;
     font-size: 7px;
 }
+
+
 }
